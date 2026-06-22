@@ -3,7 +3,7 @@ import requests
 import json
 
 def main():
-    print('Searching wikipedia for "The Cat in the Hat"')
+    print('Searching wikipedia for article links from the "The Cat in the Hat"')
 
     # Concatenate the first 3 components of a URL for HTTP
     protocol = 'https'
